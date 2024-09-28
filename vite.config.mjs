@@ -59,6 +59,7 @@ export default defineConfig({
       '.vue',
     ],
   },
+  base: "/Social-proof-section-FM-challenge-14/",
   server: {
     port: 3000,
   },
